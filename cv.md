@@ -12,3 +12,8 @@
 
 * **JavaScript**
 * **MySQL**
+
+## Courses
+
+[Hexlet](https://ru.hexlet.io/u/nuts)
+in the learning process
