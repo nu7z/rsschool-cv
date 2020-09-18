@@ -17,3 +17,5 @@
 
 [Hexlet](https://ru.hexlet.io/u/nuts)
 in the learning process
+
+*English language A1 - A2*
